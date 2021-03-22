@@ -81,25 +81,25 @@ onedrive --synchronize --resync
 # 7. Start onedrive on boot
 
 OneDrive service running as a non-root user via systemd. This service will be launched at startup.
-Note: replace "<username>" with your username in the below command. Example: systemctl enable onedrive@nathanael.service
+Note: replace "username" with your username in the below command. Example: systemctl enable onedrive@nathanael.service
 
 ```
-systemctl enable onedrive@<username>.service
+systemctl enable onedrive@username.service
 ```
 
 # 8. Start onedrive service now
 
 The command above only starts the onedrive service on startup. You could reboot your system or type the following.
-Note: replace "<username>" with your username in the below command. Example: systemctl start onedrive@nathanael.service
+Note: replace "username" with your username in the below command. Example: systemctl start onedrive@nathanael.service
 
 ```
-systemctl start onedrive@<username>.service
+systemctl start onedrive@username.service
 ```
 
 # 9. (OPTIONAL) Check that the service is running correctly
 
 ```
-systemctl status onedrive@<username>.service
+systemctl status onedrive@username.service
 ```
 
 # 10. Check out your work
