@@ -39,7 +39,9 @@ The resulting *"blank"* page is not a mistake. Copy the URL (in full) and paste 
 
 ## 3.1 Create a file named sync_list in the onedrive config folder. 
 
-```nano ~/.config/onedrive/sync_list```
+```
+nano ~/.config/onedrive/sync_list
+```
 
 ## 3.2 list files/folders to sync.
 
