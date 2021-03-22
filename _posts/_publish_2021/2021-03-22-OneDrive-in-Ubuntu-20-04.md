@@ -11,7 +11,7 @@ This tutorial is for those that are new to Ubuntu 20.04 and want a way to sync a
 
 This tutorial is based on the abraunegg's docs outlined on git. If you are confident in setting up linux programs I highly recommend to follow the official documentation. 
 
-Git: https://github.com/abraunegg/onedrive
+Git: [github.com/abraunegg/onedrive](https://github.com/abraunegg/onedrive)
 
 # 1. Install onedrive via Ubuntu PPA Archive:
 ```
@@ -106,4 +106,5 @@ systemctl status onedrive@username.service
 
 Have a look at your onedrive files in Ubuntu and wonder why Microsoft are too lazy to release an official client themselves. At least we have an amazing open source community dedicated to helping each other.
 
-Remember to go give your praise on github to the folks that released this updated version of onedrive client at: https://github.com/abraunegg/onedrive
+Remember to go give your praise on github to the folks that released this updated version of onedrive client at: [github.com/abraunegg/onedrive](https://github.com/abraunegg/onedrive)
+
