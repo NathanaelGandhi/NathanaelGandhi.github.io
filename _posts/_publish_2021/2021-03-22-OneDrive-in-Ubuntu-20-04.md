@@ -9,7 +9,7 @@ tags:
 
 This tutorial is for those that are new to Ubuntu 20.04 and want a way to sync all or part of their Microsoft OneDrive.
 
-This tutorial is based on the abraunegg's docs outlined on git. If you are confident in setting up linux programs I highly recommended to follow the official documentation. 
+This tutorial is based on the abraunegg's docs outlined on git. If you are confident in setting up linux programs I highly recommend to follow the official documentation. 
 
 Git: https://github.com/abraunegg/onedrive
 
