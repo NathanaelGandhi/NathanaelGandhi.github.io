@@ -2163,6 +2163,19 @@ input, select, textarea {
 			padding: 0 2.75rem;
 		}
 
+		input[type="submit"].largeGreen,
+		input[type="reset"].largeGreen,
+		input[type="button"].largeGreen,
+		button.largeGreen,
+		.button.largeGreen {
+			font-size: 0.9rem;
+			height: 3.5rem;
+			line-height: 3.5rem;
+			padding: 0 2.75rem;
+			text-decoration-color: #101820ff;
+			background-color: rgb(99, 214, 159);
+		}
+
 		@media screen and (max-width: 980px) {
 
 			input[type="submit"],
