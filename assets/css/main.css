@@ -322,6 +322,12 @@ input, select, textarea {
 		border-bottom-color: #eeeeee;
 	}
 
+/* Column */
+	.column50 {
+		float: left;
+		width: 50%;
+	}
+
 /* Row */
 
 	.row {
