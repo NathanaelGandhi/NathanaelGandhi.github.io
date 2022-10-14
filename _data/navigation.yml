@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog.html
+- name: Academic
+  link: /academic_experiences.html
+- name: Professional
+  link: /professional_experiences.html
+- name: Leadership
+  link: /leadership.html
+- name: Teamwork
+  link: /teamwork_service.html
+- name: About
+  link: /about.html
