@@ -2,6 +2,8 @@ collections:
   authors:
     output: true
 
+timezone: Australia/Sydney
+
 defaults:
   - scope:
       path: ""
