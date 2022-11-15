@@ -3,23 +3,35 @@ layout: default
 title: Blog
 ---
 <h1>Latest Posts</h1>
-
-<ul>
+<section class="posts">
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
+    <article>
+      <header>
+        <span class="date">{{ post.categories }}</span>
+        <!-- <span class="date">{{ post.date | date: "%-d %B %Y" }}</span> -->
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </header>
+      <a href="{{ post.url }}" class="image fit"><img src="{{ post.cover_image }}" alt="" /></a>
+      <p>{{ post.excerpt }}</p>
+      <ul class="actions special">
+        <li><a href="{{ post.url }}" class="button">Full Story</a></li>
+      </ul>
+    </article>
   {% endfor %}
-</ul>
+</section>
 
 <h1>Posts by Category</h1>
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<section class="posts">
+  {% for category in site.categories %}
+    <article>
+      <header>
+        <h2>{{ category[0] }}</h2>
+        <ul>
+          {% for post in category[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </header>
+    </article>
     {% endfor %}
-  </ul>
-{% endfor %}
+</section>
