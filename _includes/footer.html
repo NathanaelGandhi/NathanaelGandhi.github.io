@@ -1,4 +1,4 @@
-<footer id="footer">
+<!-- <footer id="footer">
     <section>
         <form method="post" action="#">
             <div class="fields">
@@ -40,4 +40,9 @@
             {% include social.html %}
         </section>
     </section>
+</footer> -->
+
+<footer id="footer">
+    {% assign author = site.authors[0] %}
+    <p class="copyright">&copy; {{ author.name }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 </footer>

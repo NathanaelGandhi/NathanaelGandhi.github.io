@@ -1,6 +1,6 @@
 ---
 short_name: Nathanael
 name: Nathanael Gandhi
-position: Engineer
+position: Mechatronic Engineer
 ---
-Mechatronic Engineer, Maker & Adventurer
+Engineer, Maker & Adventurer

@@ -2,7 +2,23 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
-<p>This homepage is under construction.<br>
-    Still deciding what to do with it.<br>
-    Most of the site is built though, feel free to explore</p>
+<!-- Banner -->
+<section id="banner">
+    <div class="content">
+        <header>
+            <h1>Hi, I’m Nathanael</h1>
+            <p>{{ site.authors[0].content | markdownify }}</p>
+        </header>
+        <p>My website is a fun learning activity and still a work in progress. It is based upon the HTML5 UP Editorial theme, using jekyll and github pages to build pages written in a combination of html and markdown. Feel free to have a look around!</p>
+        <ul class="actions">
+            <li><a href="/pages/about.html" class="button big">Learn More About Me</a></li>
+        </ul>
+    </div>
+    <span class="image object">
+        <img src="/assets/images/pages/NG.svg" alt="" />
+    </span>
+</section>
+<!-- Section -->
+<!-- {% include major_icons.html %} -->
+<!-- Section -->
+<!-- {% include major_images.html %} -->
