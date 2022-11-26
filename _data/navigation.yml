@@ -2,9 +2,7 @@
   link: /
 - name: About
   link: /pages/about.html
-- name: Projects - Latest
-  link: /pages/latest_projects.html
-- name: Projects - Categories
+- name: Projects by Category
   link: /pages/projects.html
 - name: Professional
   link: /pages/professional_experiences.html

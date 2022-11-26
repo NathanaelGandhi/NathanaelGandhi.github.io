@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Nathanael
-categories: DIY Woodworking
+categories: Woodworking DIY
 tags: Mitre Bench Portable
-cover_image: /assets/images/woodworking/2022-10-29-Folding-Portable-Mitre-Bench/onshape_mitre_bench.png
+cover_image: /assets/images/woodworking/2022-10-29-Folding-Portable-Mitre-Bench/onshape_mitre_bench_1024x683.png
 excerpt_separator: "<!--more-->"
 ---
 Free plans to make your own DIY portable folding miter saw bench.

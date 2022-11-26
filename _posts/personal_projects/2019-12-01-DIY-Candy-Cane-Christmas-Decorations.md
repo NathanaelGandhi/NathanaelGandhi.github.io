@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Nathanael
-categories: DIY Random
+categories: Random DIY
 tags: DIY Christmas Decorations Candy Cane
-cover_image: /assets/images/personal_projects/2019-12-01-DIY-Candy-Cane-Christmas-Decorations/20191201_202932.jpg
+cover_image: /assets/images/personal_projects/2019-12-01-DIY-Candy-Cane-Christmas-Decorations/20191201_202932_1024x683.jpg
 excerpt_separator: "<!--more-->"
 ---
 Bunnings is a store of inspiration and this year has been no different. I saw huge Christmas candy canes out the front of the store made from PVC and tape. They looked great.

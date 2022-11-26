@@ -3,7 +3,7 @@ layout: post
 author: Nathanael
 categories: Computing Linux
 tags: Technology
-cover_image: /assets/images/computing/2019-03-24-Persistent-Naming-for-USB-Serial-Devices/5162231371_9fd1f53830_b.jpg
+cover_image: /assets/images/computing/2019-03-24-Persistent-Naming-for-USB-Serial-Devices/5162231371_9fd1f53830_b_1024x683.jpg
 excerpt_separator: "<!--more-->"
 ---
 Set a USB devices name in Linux

@@ -3,7 +3,7 @@ layout: post
 author: Nathanael
 categories: 3D-Printing
 tags: coffee baratza
-cover_image: /assets/images/3d-printing/2022-10-15-Baratza-Encore-Flow-Control-Disk/IMG_20221115_225002.jpg
+cover_image: /assets/images/3d-printing/2022-10-15-Baratza-Encore-Flow-Control-Disk/IMG_20221115_225002_1024x683.jpg
 excerpt_separator: "<!--more-->"
 ---
 Minimise fine grounds with this free flow control disk, ready for 3D printing!
