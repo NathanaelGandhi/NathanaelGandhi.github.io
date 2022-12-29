@@ -1243,6 +1243,14 @@ input[type="radio"] + label:before {
     width: 100%; }
     .image.main img {
       width: 100%; }
+  .image.post_cover {
+    display: block;
+    margin: 0 0 3em 0;
+    width: 100%; 
+    height: auto; }
+    .image.post_cover img {
+      max-width: 90vw; 
+      max-height: 50vh; }
 
 a.image {
   overflow: hidden; }
