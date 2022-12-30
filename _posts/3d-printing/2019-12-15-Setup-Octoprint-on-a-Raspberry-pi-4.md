@@ -22,13 +22,13 @@ OctoPrint recommends using the OctoPi image maintained by Guy Sheffer. This is t
 
 Next, I downloaded and installed [Etcher](https://www.balena.io/etcher/). Etcher is used for installing the extracted .img OctoPi file onto the sd card. First I selected the OctoPi image.
 
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture1.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture2.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture3.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture4.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture5.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture6.png)
-![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture7.png)
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture1.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture2.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture3.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture4.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture5.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture6.png){: .image .post_cover}
+![](/assets/images/3d-printing/2019-12-15-Setup-Octoprint-on-a-Raspberry-pi-4/capture7.png){: .image .post_cover}
 
 Etcher ejects the sd card once it completes so I reinserted it to set up the wifi settings. Using VSCode (you could also use Atom or notepad++) I edited octopi-wpa-supplicant.txt on the sd card.
 
