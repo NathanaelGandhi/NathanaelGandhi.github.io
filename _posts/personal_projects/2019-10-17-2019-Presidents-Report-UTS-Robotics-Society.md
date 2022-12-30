@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nathanael
-categories: DIY Random
+categories: Volunteering
 tags: 
 cover_image: /assets/images/personal_projects/2019-10-17-2019-Presidents-Report-UTS-Robotics-Society/284145415_5350671628316580_3783355714206997813_n.jpg
 excerpt_separator: "<!--more-->"
