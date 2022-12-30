@@ -48,20 +48,20 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 - 20x 60mm Screws
 - 6x 16mm Screws
 
-## Notes
+![Single Shelf](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf.png){: .image .post_cover}
 
-### COTS Shelving
+## COTS Shelving
 
 - $296.10 - [Pinnacle 1830 x 1820 x 540mm 4 Tier Heavy Duty Shelving Unit](https://www.bunnings.com.au/pinnacle-1830-x-1820-x-540mm-4-tier-heavy-duty-shelving-unit_p2582967)
 - $203.47 - [Montgomery 1900 x 1900 x 540mm 4 Shelf Shelving Unit](https://www.bunnings.com.au/montgomery-1900-x-1900-x-540mm-4-shelf-shelving-unit_p0239829)
 
-### Wood
+## Wood
 
 I chose to use 'Framing Non Structural Untreated Pine' due to its availability and cost. At $2.37 / metre it seems like a great deal, however it did involve spending some time to pick out pieces that were free from knots and bowing.
 
 This type of wood is not recommended for use under load so I would implore you to consider using graded wood of MGP10 or better for your own projects.
 
-### Dimensions
+## Dimensions
 
 The depth of each shelf is 600mm as this is easily cut from a standard sheet of ply/mdf with very little waste. This is also the width I plan to build my workbenches in the future.
 
@@ -69,11 +69,11 @@ The depth of each shelf is 600mm as this is easily cut from a standard sheet of 
 
 Keeping the length to 1.8m also allows me to simplify the cut list. If you are using a mitre saw, setup a stop block to make repeated cuts at identical lengths. In my case I'll be using a circular saw and the first cut piece to mark all my other cuts, reducing the chances of measurement errors along the way.
 
-### CAD
+## CAD
 
 Checkout the CAD model that I designed in OnShape [here.](https://cad.onshape.com/documents/3218dad7da75d6c5908cce0a/w/33f672faa8972571ea5d0aad/e/20bc264bf0502361b7d56d5c?renderMode=0&uiState=63aaca03f13eed36bc09d91a)
 
-### Cost
+## Cost
 
 The cost for the framing timber includes wastage material, however, as I use screws and MDF in various other projects, some of which suit the 1200x600 offcuts of MDF, I have only included the cost of the screws and MDF used below.
 
