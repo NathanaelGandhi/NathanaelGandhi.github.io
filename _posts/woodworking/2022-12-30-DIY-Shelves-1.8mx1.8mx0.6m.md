@@ -48,7 +48,8 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 - 20x 60mm Screws
 - 6x 16mm Screws
 
-![Single Shelf](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf.png){: .image .post_cover}
+<!-- ![Single Shelf](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf.png){: .image .post_cover} -->
+![Single Shelf Frame](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf_frame.jpg){: .image .post_cover}
 
 ## COTS Shelving
 
@@ -58,6 +59,8 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 ## Wood
 
 I chose to use 'Framing Non Structural Untreated Pine' due to its availability and cost. At $2.37 / metre it seems like a great deal, however it did involve spending some time to pick out pieces that were free from knots and bowing.
+
+![Lumber](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/lumber.jpg){: .image .post_cover}
 
 This type of wood is not recommended for use under load so I would implore you to consider using graded wood of MGP10 or better for your own projects.
 
