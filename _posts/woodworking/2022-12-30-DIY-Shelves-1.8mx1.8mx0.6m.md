@@ -39,6 +39,7 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 - 4x Single Shelf
 - 4x 70x35x1800mm Framing
 - 32x 60mm Screws
+![Assembly](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/assembly.jpg){: .image .post_cover}
 
 #### Single Shelf
 
@@ -93,3 +94,5 @@ Total cost: $115.71
 ## Summary
 
 This project was a fun and practical one for me. If you just need a storage shelving solution, go buy one, if you need an excuse to do some woodworking, feel free to follow, modify or ignore this project as suits you!
+
+![Standing](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/standing.jpg){: .image .post_cover}
