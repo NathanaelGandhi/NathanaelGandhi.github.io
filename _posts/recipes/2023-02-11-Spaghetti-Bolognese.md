@@ -3,7 +3,7 @@ layout: post
 author: Nathanael
 categories: Recipes
 tags: Cooking Food
-cover_image: /assets/images/NG.svg
+cover_image: /assets/images/pages/NG.svg
 excerpt_separator: "<!--more-->"
 ---
 Simple and tasty spaghetti bolognese recipe.
