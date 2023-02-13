@@ -12,7 +12,7 @@ The way this works is OctoPrint waits for a z-axis change which signals going fr
 
 The configuration settings are quite simple and easy to modify. Keep in mind that you can not edit the configuration settings while you have a print running and be sure to tick “Save as default” once you have your settings dialed in.
 
-![](/assets/images/3d-printing/2020-03-25-Timelapse-3D-Prints-with-Octoprint/capture.png){: .image .post_cover}
+![](/assets/images/3d-printing/2020-03-25-Timelapse-3D-Prints-with-Octoprint/capture.png){: .image.post_wide}
 
 This feature works great out of the box however there are a few things to keep in mind. The photo is taken on layer change which could mean the bed and/or nozzle is in a different position every photo. This can leave you with a timelapse that is a bit jerky and disorientating to watch. To combat this problem I will be setting up Octolapse which allows you to set a bed and nozzle position for each photo on layer change.
 

@@ -39,7 +39,7 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 - 4x Single Shelf
 - 4x 70x35x1800mm Framing
 - 32x 60mm Screws
-![Assembly](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/assembly.jpg){: .image .post_cover}
+![Assembly](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/assembly.jpg){: .image.post_wide}
 
 #### Single Shelf
 
@@ -49,8 +49,8 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 - 20x 60mm Screws
 - 6x 16mm Screws
 
-<!-- ![Single Shelf](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf.png){: .image .post_cover} -->
-![Single Shelf Frame](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf_frame.jpg){: .image .post_cover}
+<!-- ![Single Shelf](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf.png){: .image.post_wide} -->
+![Single Shelf Frame](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/shelf_frame.jpg){: .image.post_wide}
 
 ## COTS Shelving
 
@@ -61,7 +61,7 @@ My design of a shelf calls for a simple box with joists, topped with some MDF. T
 
 I chose to use 'Framing Non Structural Untreated Pine' due to its availability and cost. At $2.37 / metre it seems like a great deal, however it did involve spending some time to pick out pieces that were free from knots and bowing.
 
-![Lumber](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/lumber.jpg){: .image .post_cover}
+![Lumber](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/lumber.jpg){: .image.post_wide}
 
 This type of wood is not recommended for use under load so I would implore you to consider using graded wood of MGP10 or better for your own projects.
 
@@ -95,4 +95,4 @@ Total cost: $115.71
 
 This project was a fun and practical one for me. If you just need a storage shelving solution, go buy one, if you need an excuse to do some woodworking, feel free to follow, modify or ignore this project as suits you!
 
-![Standing](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/standing.jpg){: .image .post_cover}
+![Standing](/assets/images/woodworking/2022-12-30-DIY-Shelves-1.8mx1.8mx0.6m/standing.jpg){: .image.post_wide}
