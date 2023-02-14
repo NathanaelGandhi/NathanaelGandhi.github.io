@@ -1272,6 +1272,16 @@ input[type="radio"] + label:before {
     max-height: 80vh; 
     object-fit: cover;
     object-position: center center;}
+  .image.post_half_float {
+    display: block;
+    float: left;
+    padding: 1em;
+    width: 50%; 
+    height: auto;
+    max-width: 100vw; 
+    max-height: 80vh; 
+    object-fit: cover;
+    object-position: center center;}
   .image.post_third {
     display: block;
     margin: 0 0 3em 0;
