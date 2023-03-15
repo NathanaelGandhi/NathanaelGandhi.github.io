@@ -1,14 +1,14 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog.html
-- name: Academic
-  link: /academic_experiences.html
-- name: Professional
-  link: /professional_experiences.html
-- name: Leadership
-  link: /leadership.html
-- name: Teamwork
-  link: /teamwork_service.html
 - name: About
-  link: /about.html
+  link: /pages/about.html
+- name: Posts by Category
+  link: /pages/projects.html
+- name: Professional
+  link: /pages/professional_experiences.html
+- name: Leadership
+  link: /pages/leadership.html
+- name: Teamwork
+  link: /pages/teamwork_service.html
+- name: Academic
+  link: /pages/academic_experiences.html

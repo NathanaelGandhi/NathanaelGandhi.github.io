@@ -1,43 +1,46 @@
 <!doctype html>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/pages/favicon.ico">
+  </head>
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  <noscript>
-    <link rel="stylesheet" href="/assets/css/noscript.css" />
-  </noscript>
-  {% feed_meta %}
-  {% seo %}
-</head>
-
-<body class="is-preload">
-  <div id="wrapper" class="fade-in">
-    <!-- Intro -->
-    {% include intro.html %}
-    <!-- Header -->
-    {% include header.html %}
-    <!-- Nav -->
-    {% include navigation.html %}
-    <!-- Main -->
-    <div id="main">
-      {{ content }}
-    </div>
-    <!-- Footer -->
-    {% include footer.html %}
-    <!-- Copyright -->
-    {% include copyright.html %}
-  </div>
-  <!-- Scripts -->
-  <script src="/assets/js/jquery.min.js"></script>
-  <script src="/assets/js/jquery.scrollex.min.js"></script>
-  <script src="/assets/js/jquery.scrolly.min.js"></script>
-  <script src="/assets/js/browser.min.js"></script>
-  <script src="/assets/js/breakpoints.min.js"></script>
-  <script src="/assets/js/util.js"></script>
-  <script src="/assets/js/main.js"></script>
-</body>
-
+  <body class="is-preload">
+    <!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								{% include header.html %}
+								{{ content }}
+						</div>
+					</div>
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+							<!-- Search -->
+                				<!-- {% include search.html %} -->
+							<!-- Menu -->
+                				{% include menu.html %}
+							<!-- Section -->
+                				{% include major_sidebar.html %}
+							<!-- Section -->
+                				{% include contact.html %}
+							<!-- Footer -->
+                				{% include footer.html %}
+						</div>
+					</div>
+			</div>
+    <!-- Scripts -->
+      {% include scripts.html %}
+  </body>
 </html>

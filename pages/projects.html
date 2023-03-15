@@ -1,0 +1,17 @@
+---
+layout: page
+title: Posts by Category
+category: posts
+---
+{% for category in site.categories %}
+  <article>
+    <header>
+      <h2>{{ category[0] }}</h2>
+      <ul>
+        {% for post in category[1] %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </header>
+  </article>
+  {% endfor %}
