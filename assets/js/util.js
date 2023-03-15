@@ -96,7 +96,11 @@
 
 			// Expand "target" if it's not a jQuery object already.
 				if (!(config.target instanceof jQuery)) {
-					config.target = $(config.target);
+					// Sanitize user-configured target element.
+					var sanitizedTarget = $('<div>').text(config.target).html();
+
+					// Convert sanitized target element to a jQuery object.
+					config.target = $(sanitizedTarget);					
 				}
 
 		// Panel.
