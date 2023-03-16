@@ -1,2 +1,7 @@
+area/dev/pages: 'pages'
+area/dev/includes: 'includes'
+area/dev/layouts: 'layouts'
+area/dev/assets: 'assets'
+area/dev/workflows: '(workflow|workflows)'
 type/feat: 'feat'
 type/fix: 'fix'
