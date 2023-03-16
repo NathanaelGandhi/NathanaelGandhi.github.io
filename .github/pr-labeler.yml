@@ -1,10 +1,10 @@
-posts:
+area/posts:
 - _posts/**/*
-pages:
+area/dev/pages:
 - pages/**/*
-workflows:
+area/dev/workflows:
 - .github/**/*
-assets:
+area/dev/assets:
 - assets/**/*
 # Add 'repo' label to any root file changes
 repo:
