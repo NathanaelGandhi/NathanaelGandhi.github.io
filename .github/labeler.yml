@@ -1,0 +1,5 @@
+# Add/remove 'critical' label if issue contains the words 'feat' or 'feature'
+type/feat:
+    - '(feat|feature)'
+type/fix:
+    - '(fix)'
