@@ -6,3 +6,6 @@ workflow:
 - .github/**/*
 asset:
 - assets/**/*
+# Add 'repo' label to any root file changes
+repo:
+- '*'
