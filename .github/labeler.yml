@@ -1,0 +1,8 @@
+post:
+- _posts/**/*
+page:
+- pages/**/*
+workflow:
+- .github/**/*
+asset:
+- assets/**/*
