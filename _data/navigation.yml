@@ -1,14 +1,14 @@
 - name: Home
   link: /
-- name: About
+- name: About Me
   link: /pages/about.html
 - name: Posts by Category
   link: /pages/projects.html
-- name: Professional
+- name: Professional Experiences
   link: /pages/professional_experiences.html
-- name: Leadership
-  link: /pages/leadership.html
-- name: Teamwork
-  link: /pages/teamwork_service.html
-- name: Academic
+# - name: Leadership
+#   link: /pages/leadership.html
+- name: Academic Experiences
   link: /pages/academic_experiences.html
+- name: Teamwork & Leadership
+  link: /pages/teamwork_service.html
