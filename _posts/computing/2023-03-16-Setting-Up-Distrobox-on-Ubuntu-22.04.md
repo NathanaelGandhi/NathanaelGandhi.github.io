@@ -2,7 +2,7 @@
 title: "Setting up Distrbox on Ubuntu 22.04"
 layout: post
 author: Nathanael
-categories: Computing
+categories: Computing Linux
 tags: Linux
 cover_image: https://user-images.githubusercontent.com/598882/144294862-f6684334-ccf4-4e5e-85f8-1d66210a0fff.png
 excerpt_separator: "<!--more-->"
