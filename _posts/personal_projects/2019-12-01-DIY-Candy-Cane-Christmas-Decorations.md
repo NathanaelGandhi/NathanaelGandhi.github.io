@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nathanael
-categories: Random DIY
+categories: DIY
 tags: DIY Christmas Decorations Candy Cane
 cover_image: /assets/images/personal_projects/2019-12-01-DIY-Candy-Cane-Christmas-Decorations/20191201_202932_1024x683.jpg
 excerpt_separator: "<!--more-->"
