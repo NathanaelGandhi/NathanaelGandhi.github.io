@@ -26,7 +26,7 @@ We had planned to spend some time checking out Penrose State Forest for potentia
 
 After Penrose, we decided a quick detour to the lookouts in Bundanoon for lunch was in order. James had handmade us delicious wraps which we enjoyed while checking out the amazing views.
 
-![](https://pixelfed.au/storage/m/_v2/541610247118679300/42a8ecf32-5a8865/Z9H3rQ9sjump/9F76JxVA60U7qW5ielJTTPYsMQsyFQp8ewM4V9NW.jpg){: .image.post_half}
+![](https://s3.ap-southeast-2.wasabisys.com/pixelfedau/public/m/_v2/541610247118679300/42a8ecf32-5a8865/Z9H3rQ9sjump/9F76JxVA60U7qW5ielJTTPYsMQsyFQp8ewM4V9NW.jpg){: .image.post_half}
 
 ### Wingello State Forest
 
@@ -66,7 +66,7 @@ The next morning we had a lazy start to the day, made some breakfast and packed 
 
 We decided to drive to Badgerys Spur lookout (which was well worth the view) before driving back to Sydney.
 
-![At Badgerys Spur Lookout](https://pixelfed.au/storage/m/_v2/541610247118679300/42a8ecf32-5a8865/yHq4QsfAZEC0/PZBVY8vUnHqYXiSHOwsz4fqyfG7YnzZQ8erH9PB4.jpg){: .image.post_half}
+![At Badgerys Spur Lookout](https://s3.ap-southeast-2.wasabisys.com/pixelfedau/public/m/_v2/541610247118679300/42a8ecf32-5a8865/yHq4QsfAZEC0/PZBVY8vUnHqYXiSHOwsz4fqyfG7YnzZQ8erH9PB4.jpg){: .image.post_half}
 
 ## Special Thanks
 
