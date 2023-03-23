@@ -2,7 +2,7 @@
 layout: post
 author: Nathanael
 title: "Baby's First Camp - Wingello State Forest"
-categories: Adventure
+categories: Adventures
 tags: Outdoors
 cover_image: https://s3.ap-southeast-2.wasabisys.com/pixelfedau/public/m/_v2/541610247118679300/42a8ecf32-5a8865/yHq4QsfAZEC0/PZBVY8vUnHqYXiSHOwsz4fqyfG7YnzZQ8erH9PB4.jpg
 excerpt_separator: "<!--more-->"
