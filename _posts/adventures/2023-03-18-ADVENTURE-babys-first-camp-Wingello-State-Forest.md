@@ -4,7 +4,7 @@ author: Nathanael
 title: "Baby's First Camp - Wingello State Forest"
 categories: Adventure
 tags: Outdoors
-cover_image: https://pixelfed.au/storage/m/_v2/541610247118679300/42a8ecf32-5a8865/yHq4QsfAZEC0/PZBVY8vUnHqYXiSHOwsz4fqyfG7YnzZQ8erH9PB4.jpg
+cover_image: https://s3.ap-southeast-2.wasabisys.com/pixelfedau/public/m/_v2/541610247118679300/42a8ecf32-5a8865/yHq4QsfAZEC0/PZBVY8vUnHqYXiSHOwsz4fqyfG7YnzZQ8erH9PB4.jpg
 excerpt_separator: "<!--more-->"
 ---
 Taking a little one camping can seem daunting at first, however, after this experience there will be many more trips to come.
