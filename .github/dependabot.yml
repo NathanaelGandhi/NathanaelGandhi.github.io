@@ -4,6 +4,13 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
+registries:
+  github-io-images:
+    type: git
+    url: https://github.com
+    username: NathanaelGandhi
+    password: ${{secrets.IO_IMAGES_TOKEN}}
+
 updates:
 
   # Maintain dependencies for Bundler
@@ -19,3 +26,11 @@ updates:
       interval: "weekly"
     reviewers:
       - NathanaelGandhi
+
+  # Maintain dependencies for Git Submodules
+  - package-ecosystem: "gitsubmodule" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    registries:
+      - github-io-images
+    schedule:
+      interval: "daily"
