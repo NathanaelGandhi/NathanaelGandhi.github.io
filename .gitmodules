@@ -1,0 +1,3 @@
+[submodule "assets/images/adventures-git"]
+	path = assets/images/adventures-git
+	url = git@github.com:NathanaelGandhi/NathanaelGandhi.github.io.images.adventures.git
