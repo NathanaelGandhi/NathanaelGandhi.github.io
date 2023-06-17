@@ -1,0 +1,17 @@
+# Nathanael Gandhi | github.com/NathanaelGandhi
+
+name: 'Label stale issues and PRs'
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+    
+permissions:
+  issues: write
+  pull-requests: write
+  contents: read
+
+jobs:
+  call-reusable:
+    uses: NathanaelGandhi/reusable-workflows/.github/workflows/stale-reusable.yaml@main
+    secrets: inherit
