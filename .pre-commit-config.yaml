@@ -41,7 +41,7 @@ repos:
       - id: check-json5
   # Python
   - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 24.4.2
+    rev: 24.8.0
     hooks:
       - id: black
   - repo: https://github.com/asottile/reorder-python-imports
