@@ -31,7 +31,7 @@ repos:
         require_serial: true
   # GitHub Actions
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.1
+    rev: v1.7.2
     hooks:
       - id: actionlint
   # JSON
