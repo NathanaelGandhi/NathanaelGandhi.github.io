@@ -3,7 +3,7 @@ ci:
 fail_fast: false
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-ast
@@ -23,7 +23,7 @@ repos:
       # - id: trailing-whitespace
   # C || C++ || Cuda
   - repo: https://github.com/pre-commit/mirrors-clang-format
-    rev: v19.1.7
+    rev: v23.1.0
     hooks:
       - id: clang-format
         args: [--style=file]
@@ -31,26 +31,26 @@ repos:
         require_serial: true
   # GitHub Actions
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.7
+    rev: v1.7.12
     hooks:
       - id: actionlint
   # JSON
   - repo: https://gitlab.com/bmares/check-json5
-    rev: v1.0.0
+    rev: v1.0.1
     hooks:
       - id: check-json5
   # Python
   - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 25.1.0
+    rev: 26.5.1
     hooks:
       - id: black
   - repo: https://github.com/asottile/reorder-python-imports
-    rev: v3.14.0
+    rev: v3.17.0
     hooks:
       - id: reorder-python-imports
   # Shell
   - repo: https://github.com/shellcheck-py/shellcheck-py
-    rev: v0.10.0.1
+    rev: v0.11.0.1-1
     hooks:
       - id: shellcheck
         args: [-x]
